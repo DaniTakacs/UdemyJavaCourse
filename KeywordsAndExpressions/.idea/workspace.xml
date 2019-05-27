@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf96043-133c-43ae-aa30-cc3a4b0daab5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/danitakacs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/danitakacs/Main.java" afterDir="false" />
+    <list default="true" id="2f09b58b-89b0-4f89-924e-31a29db8ca3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../javacourse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javacourse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javacourse/src/com/danitakacs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javacourse/src/com/danitakacs/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/danitakacs/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -31,7 +31,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/danitakacs/Main.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -55,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558933156672" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,8 +71,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.danitakacs.Main" />
-      <module name="javacourse" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KeywordsAndExpressions" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -79,30 +80,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="adf96043-133c-43ae-aa30-cc3a4b0daab5" name="Default Changelist" comment="" />
-      <created>1557145184298</created>
+      <changelist id="2f09b58b-89b0-4f89-924e-31a29db8ca3a" name="Default Changelist" comment="" />
+      <created>1558932714055</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557145184298</updated>
-      <workItem from="1557145186568" duration="3148000" />
-      <workItem from="1557729445713" duration="1215000" />
-      <workItem from="1558932661779" duration="50000" />
+      <updated>1558932714055</updated>
+      <workItem from="1558932718479" duration="478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4413000" />
+    <option name="totallyTimeSpent" value="478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -112,7 +106,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32946378" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25815368" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25262576" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -126,7 +120,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Run" order="12" weight="0.32810867" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.32846716" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -142,10 +136,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/danitakacs/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

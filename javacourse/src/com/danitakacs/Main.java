@@ -73,6 +73,6 @@ public class Main {
 
         System.out.println("remainder is " + myRemainder);
 
-        // http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html 
+        // http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
     }
 }
